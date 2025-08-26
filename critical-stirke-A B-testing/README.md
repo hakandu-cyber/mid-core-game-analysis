@@ -10,7 +10,8 @@
 
 **Reason:**  
 
-Time-based rewards encourage passive play (idling), while match-based rewards require active participation and foster competition. Active engagement increases likelihood of interest in in-game offers with competitive advantage.  
+Time-based reward systems may encourage players to stay in the game passively with low interaction. A player might leave the game open without seriously playing, just to collect rewards. In contrast, a match-based reward system keeps the player actively involved and creates a more competitive environment. As a result, the player may show more interest in in-game offers that provide a competitive advantage.
+
 
 **Target KPIs:**  
 
@@ -35,7 +36,7 @@ Time-based rewards encourage passive play (idling), while match-based rewards re
 
 **Reason:**  
 
-The current main menu overwhelms new players with too much text and overlapping elements. Grouping key sections (Missions, Battle Pass, Daily Rewards, Inventory) and consolidating rewards improves clarity and helps players focus on meaningful goals.  
+The active main menu includes too much text, constant pop-ups, and overlapping elements, creating a chaotic user experience. This confusion can cause players to feel lost and disconnected, especially on their first day. Key sections such as Missions, Battle Pass, Daily Rewards, and Inventory can be grouped into clear categories to reduce clutter. Crates and time- based rewards can also be gathered into a single, well-defined section to improve clarity and help players focus on meaningful goals.
 
 **Target KPIs:**  
 
@@ -60,7 +61,7 @@ The current main menu overwhelms new players with too much text and overlapping 
 
 **Reason:** 
 
-Improved weapon animations enhance immersion. Static display reduces connection with gameplay. Adding sway/slide effects and reducing weapon size improves feedback, visibility, and player comfort.  
+Improving movement and weapon animations can significantly enhance the feel of gameplay. A static weapon model makes the game feel less immersive. Adding visual details like weapon sway or a small slide effect when crouching while sprinting helps the player feel more connected to the character’s motion. Reducing weapon size also improves visibility and comfort during matches.
 
 **Target KPIs:**  
 
